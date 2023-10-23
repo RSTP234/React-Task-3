@@ -1,0 +1,33 @@
+#container {
+  width: 98vw;
+  height: 95vh;
+  background-color:rgb(203, 137, 224);
+  padding: 15px;
+}
+
+#colorsCont{
+    background-color:rgba(226, 165, 145, 0.718);
+    height: 25%;
+    width: 75%;
+    margin: auto;
+    padding-top: 20%;
+    border-radius: 20px;
+}
+
+#colbutton {
+  background-color: limegreen;
+  border: 0;
+  font-size: large;
+  padding: 10px 20px;
+}
+
+button{
+    background-color: transparent;
+    border: 0px
+}
+
+.colors{
+    height: 40px;
+    width: 40px;
+    margin: 9px;
+}
